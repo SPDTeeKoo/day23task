@@ -14,6 +14,11 @@ const Users = [
     Name: 'Andres Iniesta',
     Age: '40',
   },
+  {
+    id: '4',
+    Name: 'Zinedine Zidane',
+    Age: '44',
+  },
 ];
 
 export default Users;
